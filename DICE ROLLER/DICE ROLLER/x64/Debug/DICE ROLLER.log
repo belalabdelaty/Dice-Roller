@@ -1,0 +1,3 @@
+﻿  DICE ROLLER.cpp
+D:\TECHNOHACKS\DICE ROLLER\DICE ROLLER\DICE ROLLER.cpp(12,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DICE ROLLER.vcxproj -> D:\TECHNOHACKS\DICE ROLLER\x64\Debug\DICE ROLLER.exe
